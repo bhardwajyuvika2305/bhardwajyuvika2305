@@ -1,16 +1,14 @@
-## Hi there 👋
+## About me 👋
 
-<!--
-**bhardwajyuvika2305/bhardwajyuvika2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Yuvika
 
-Here are some ideas to get you started:
+💻 Engineering Student | Passionate Developer  
+🚀 Exploring C++, Web Development, AI & DSA  
+✨ Building creative and futuristic projects with clean UI  
+🌱 Currently improving problem-solving and development skills  
+🎯 Goal: Become a skilled Software Engineer and build impactful tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Tech Stack:
+C++ • HTML • CSS • JavaScript • GitHub • VS Code
+
+🌸 “Consistency and creativity build the future.” 
