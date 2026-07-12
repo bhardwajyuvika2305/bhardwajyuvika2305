@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Yuvika
-<br>><br>💻 Engineering Student | Passionate Developer  <br>🚀 Exploring C++, Web Development, AI & DSA  <br>✨ Building creative and futuristic projects with clean UI  <br>🌱 Currently improving problem-solving and development skills  <br>🎯 Goal: Become a skilled Software Engineer and build impactful tech<br>
+<br><br>💻 Engineering Student | Passionate Developer  <br>🚀 Exploring C++, Web Development, AI & DSA  <br>✨ Building creative and futuristic projects with clean UI  <br>🌱 Currently improving problem-solving and development skills  <br>🎯 Goal: Become a skilled Software Engineer and build impactful tech<br>
 
 
 ## 🌐 Socials:
