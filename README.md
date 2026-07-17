@@ -54,24 +54,15 @@
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
 </p>
 
+
 ## 📊 Performance & Analytics:
 
 <p align="center">
   <!-- GitHub Activity Graph (Matches your dark palette) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhardwajyuvika2305&theme=github-dark-dimmed&hide_border=true" alt="Yuvika's Activity Graph" width="100%" />
 </p>
-
 <br />
 
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bhardwajyuvika2305&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Yuvika's GitHub Stats" height="180px" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhardwajyuvika2305&layout=compact&theme=dark&hide_border=true" alt="Yuvika's Top Languages" height="180px" />
-</p>
-
----
 
 ## 🐍 Contribution Art:
 
@@ -80,9 +71,21 @@
   <img src="https://raw.githubusercontent.com/bhardwajyuvika2305/bhardwajyuvika2305/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game" />
 </p>
 
+
+### 📈 My GitHub Stats:
+
+![Yuvika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhardwajyuvika2305&show_icons=true&theme=dark&hide_border=true&count_private=true) 
+
+
+### 💻 Most Used Languages:
+
+![Yuvika's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhardwajyuvika2305&layout=compact&theme=dark&hide_border=true)
+
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 
