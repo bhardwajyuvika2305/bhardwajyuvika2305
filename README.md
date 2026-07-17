@@ -18,10 +18,6 @@
 ![](https://streak-stats.demolab.com/?user=bhardwajyuvika2305&theme=github_dark_dimmed&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhardwajyuvika2305&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/bhardwajyuvika2305/bhardwajyuvika2305/output/github-contribution-grid-snake-dark.svg)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
