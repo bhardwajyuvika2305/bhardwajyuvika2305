@@ -26,8 +26,8 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-## 🛠️ My Technical Ecosystem & Tooling
 
+## 🛠️ My Technical Ecosystem & Tooling
 ### 🧠 Data Science, Machine Learning & Analytics
 <p align="left">
   <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
