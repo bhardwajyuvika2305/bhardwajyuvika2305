@@ -4,11 +4,11 @@
   <img src="https://img.shields.io/badge/Status-Building%20&%20Learning-orange?style=for-the-badge" alt="Status" />
 </p>
 <br><br>💻 Engineering Student | Passionate Developer  
-🚀 Data Science Enthusiast & Analytics Learner  
-🌐 Exploring C++, Web Development, AI & DSA  
-✨ Building creative and futuristic projects with clean UI  
-🌱 Currently improving problem-solving and development skills  
-🎯 Motive to Become a skilled Software Engineer and build impactful tech</br>
+<br>🚀 Data Science Enthusiast & Analytics Learner  
+<br>🌐 Exploring C++, Web Development, AI & DSA  
+<br>✨ Building creative and futuristic projects with clean UI  
+<br>🌱 Currently improving problem-solving and development skills  
+<br>🎯 Motive to Become a skilled Software Engineer and build impactful tech</br>
 
 ## 🌐 Connect & Collaborate With Me
 
