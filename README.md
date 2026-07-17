@@ -91,14 +91,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhardwajyuvika2305&theme=github-dark-dimmed&hide_border=true" alt="Yuvika's Activity Graph" width="100%" />
 </p>
 
-<br>
-
-<p align="center">
-  <!-- Dynamic Language Matrix Mirror Card -->
-  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=bhardwajyuvika2305&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165px" />
-</p>
-
----
 
 ## 🐍 Dynamic Contribution Art Studio
 <p align="center">
@@ -106,6 +98,12 @@
   <img src="https://raw.githubusercontent.com/bhardwajyuvika2305/bhardwajyuvika2305/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Game Animation" />
 </p>
 
+<br>
+<p align="center">
+  <!-- Dynamic Language Matrix Mirror Card -->
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=bhardwajyuvika2305&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165px" />
+</p>
 
+---
 
 
