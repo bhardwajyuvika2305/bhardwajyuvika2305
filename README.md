@@ -71,14 +71,21 @@
   <img src="https://raw.githubusercontent.com/bhardwajyuvika2305/bhardwajyuvika2305/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game" />
 </p>
 
+---
+
+## 📊 Performance & Analytics:
+
+![Yuvika's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhardwajyuvika2305&theme=github-dark-dimmed&hide_border=true)
+
+<br />
 
 ### 📈 My GitHub Stats:
-
 <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=bhardwajyuvika2305&show_icons=true&theme=dark&hide_border=true" alt="Yuvika's GitHub Stats" height="160px" decoding="async" loading="lazy" />
 
 ### 💻 Most Used Languages:
-
 <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=bhardwajyuvika2305&layout=compact&theme=dark&hide_border=true" alt="Yuvika's Top Languages" height="160px" decoding="async" loading="lazy" />
+
+---
 
 
 ### ✍️ Random Dev Quote
