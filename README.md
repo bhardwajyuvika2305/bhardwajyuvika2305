@@ -10,8 +10,22 @@
 * 🚀 **Core Technical Competencies:** Deep-diving into Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP) via C++, and responsive Full-Stack Web Architecture.
 * ✨ **My Approach:** Merging core programmatic engineering with analytical data insights to transform complex ideas into functional, beautiful UI.
 
----
+## 🌐 Connect & Collaborate With Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/yuvika-bhardwaj2305/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.leetcode.com/u/YuvikaBytes/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/bhardwajiya05_" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="mailto:bhardwajyuvika2305@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 ## 🛠️ My Technical Ecosystem & Tooling
 
 ### 🧠 Data Science, Machine Learning & Analytics
@@ -70,13 +84,6 @@
 
 ---
 
-## 🏆 Profile Accomplishments & Gamified Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhardwajyuvika2305&theme=onedark&no-frame=true&no-bg=true&margin-x=15" alt="Yuvika's Trophies" />
-</p>
-
----
-
 ## 📊 Analytics & Interactive GitHub Metrics
 
 ### 🗓️ Last 31-Day Activity Trends
@@ -87,9 +94,6 @@
 <br>
 
 <p align="center">
-  <!-- Code Commit Streak Tracking Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhardwajyuvika2305&theme=dark&hide_border=true" alt="GitHub Streak" height="165px" />
-  &nbsp;&nbsp;
   <!-- Dynamic Language Matrix Mirror Card -->
   <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=bhardwajyuvika2305&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165px" />
 </p>
@@ -102,24 +106,6 @@
   <img src="https://raw.githubusercontent.com/bhardwajyuvika2305/bhardwajyuvika2305/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Game Animation" />
 </p>
 
----
-
-## 🌐 Connect & Collaborate With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yuvika-bhardwaj2305/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.leetcode.com/u/YuvikaBytes/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/bhardwajiya05_" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="mailto:bhardwajyuvika2305@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
 
 
 
