@@ -98,12 +98,25 @@
   <img src="https://raw.githubusercontent.com/bhardwajyuvika2305/bhardwajyuvika2305/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Game Animation" />
 </p>
 
+
+## ✨ Github Stats 
+
+<img src="https://github-readme-stats.shion.dev/api?username=bhardwajyuvika2305&theme=github_dark_dimmed&hide_border=true" alt="GitHub Stats" class="stat-card">
+
+## 🌱 Streak Stats 
+
+<img src="https://streak-stats.demolab.com/?user=bhardwajyuvika2305&theme=github_dark_dimmed&hide_border=true" alt="Streak Stats" class="stat-card">
 <br>
 <p align="center">
+  
   <!-- Dynamic Language Matrix Mirror Card -->
   <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=bhardwajyuvika2305&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165px" />
 </p>
 
 ---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bhardwajyuvika2305&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
