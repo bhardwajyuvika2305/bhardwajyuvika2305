@@ -3,12 +3,12 @@
   <img src="https://komarev.com/ghpvc/?username=bhardwajyuvika2305&color=bf2466&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Building%20&%20Learning-orange?style=for-the-badge" alt="Status" />
 </p>
-
-### 👩‍💻 About Me
-* 🎓 **Computer Science Engineering Student** passionate about engineering scalable, clean software ecosystems.
-* 📊 **Data Science & Analytics Specialist**, tracking data wrangling methodologies, statistical frameworks, and interactive model dashboards.
-* 🚀 **Core Technical Competencies:** Deep-diving into Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP) via C++, and responsive Full-Stack Web Architecture.
-* ✨ **My Approach:** Merging core programmatic engineering with analytical data insights to transform complex ideas into functional, beautiful UI.
+<br><br>💻 Engineering Student | Passionate Developer  
+🚀 Data Science Enthusiast & Analytics Learner  
+🌐 Exploring C++, Web Development, AI & DSA  
+✨ Building creative and futuristic projects with clean UI  
+🌱 Currently improving problem-solving and development skills  
+🎯 Motive to Become a skilled Software Engineer and build impactful tech</br>
 
 ## 🌐 Connect & Collaborate With Me
 
