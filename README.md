@@ -9,6 +9,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/bhardwajiya05_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhardwajyuvika2305@gmail.com)
 
+
 ## 💻 Tech Stack:
 
 <!-- Core Development, OS & Infrastructure -->
