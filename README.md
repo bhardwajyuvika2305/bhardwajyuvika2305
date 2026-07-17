@@ -74,12 +74,11 @@
 
 ### 📈 My GitHub Stats:
 
-![Yuvika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhardwajyuvika2305&show_icons=true&theme=dark&hide_border=true&count_private=true) 
-
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=bhardwajyuvika2305&show_icons=true&theme=dark&hide_border=true" alt="Yuvika's GitHub Stats" height="160px" decoding="async" loading="lazy" />
 
 ### 💻 Most Used Languages:
 
-![Yuvika's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhardwajyuvika2305&layout=compact&theme=dark&hide_border=true)
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=bhardwajyuvika2305&layout=compact&theme=dark&hide_border=true" alt="Yuvika's Top Languages" height="160px" decoding="async" loading="lazy" />
 
 
 ### ✍️ Random Dev Quote
