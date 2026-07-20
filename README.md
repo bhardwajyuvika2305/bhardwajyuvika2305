@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Yuvika Bhardwaj 
+# 👋 Hey, I'm Yuvika 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bhardwajyuvika2305&color=bf2466&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Building%20&%20Learning-orange?style=for-the-badge" alt="Status" />
