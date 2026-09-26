@@ -88,9 +88,8 @@
 
 ### 🗓️ Last 31-Day Activity Trends
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhardwajyuvika2305&theme=github-dark-dimmed&hide_border=true" alt="Yuvika's Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhardwajyuvika2305&theme=react-dark&hide_border=true" alt="Yuvika's Activity Graph" />
 </p>
-
 
 ## 🐍 Dynamic Contribution Art Studio
 <p align="center">
